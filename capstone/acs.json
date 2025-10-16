@@ -1,0 +1,36 @@
+{
+  "filter": {
+    "filtersByParty": {
+      "Alice::1220795ae25c73f4e6887bfc6eef65f288fa051d5e2acfe7eae8d25ac2bcd66a8a90": {
+        "cumulative": [
+          {
+            "identifierFilter": {
+              "TemplateFilter": {
+                "value": {
+                  "templateId": "2fa7fec894ed2f78a52c03d35cd2bbd283dd2f415fd6bf40510c50a6445bbd2b:Iou:Iou",
+                  "includeCreatedEventBlob": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      "Bob::1220795ae25c73f4e6887bfc6eef65f288fa051d5e2acfe7eae8d25ac2bcd66a8a90": {
+        "cumulative": [
+          {
+            "identifierFilter": {
+              "TemplateFilter": {
+                "value": {
+                  "templateId": "2fa7fec894ed2f78a52c03d35cd2bbd283dd2f415fd6bf40510c50a6445bbd2b:Iou:Iou",
+                  "includeCreatedEventBlob": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "verbose": true,
+  "activeAtOffset": "33" 
+}
